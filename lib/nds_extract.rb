@@ -24,7 +24,7 @@ def directors_totals(nds)
   result = {}
   director_index = 0
   while director_index < nds.length do
-    result[nds][director_index] += 0
+    result[nds][director_index][:name] += 0
     
     director_index += 1
   end 

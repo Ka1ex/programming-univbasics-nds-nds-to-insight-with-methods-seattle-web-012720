@@ -27,4 +27,6 @@ def directors_totals(nds)
     result[nds][director_index] += 0
     
     
+  end 
+   result
 end

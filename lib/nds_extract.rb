@@ -25,4 +25,4 @@ def directors_totals(nds)
   result = {}
   nil
 end
-puts director_data[:movies][0][:worldwide_gross]
+puts director_data[:movies][2][:worldwide_gross]
